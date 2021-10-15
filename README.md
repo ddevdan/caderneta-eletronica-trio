@@ -1,4 +1,4 @@
-#**Caderneta eletrônica - CAp/UFPE** 
+# **Caderneta eletrônica - CAp/UFPE** 
 
 ## Esse repositório segue destinado para o desenvolvimento e aplicações pelas disciplinas logo abaixo:
 - Planejamento e Gerenciamento de Projetos(PGP) - IF979
