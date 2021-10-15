@@ -16,10 +16,10 @@
 
 ## Cronograma das entregas do projeto:
 
-- [✔] 14/10/2021 - Kickoff dos Projetos
-- [ ] 04/11/2021 - 1º Status Report
-- [ ] 02/12/2021 - 2º Status Report
-- [ ] 21/12/2021 - Apresentação Final
+- [ ✔ ] 14/10/2021 - Kickoff dos Projetos
+- [   ] 04/11/2021 - 1º Status Report
+- [   ] 02/12/2021 - 2º Status Report
+- [   ] 21/12/2021 - Apresentação Final
 
 ## Metodologias e Ferramentas Utilizadas
 
