@@ -1,6 +1,6 @@
 # **Caderneta eletrônica - CAp/UFPE** 
 
-## Esse repositório segue destinado para o desenvolvimento e aplicações pelas disciplinas logo abaixo:
+## Esse repositório segue destinado para o desenvolvimento e aplicações aprendidas durante o período cursado das disciplinas logo abaixo:
 - Planejamento e Gerenciamento de Projetos(PGP) - IF979
 - Sistemas de Gestão Empresarial(SGE) - IF980
 - Gestão de Processos de Negócio(GPN) - IF978
